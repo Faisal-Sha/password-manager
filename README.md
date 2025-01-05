@@ -1,5 +1,5 @@
 # Password Vault CLI Tool
-[code challenges](https://codingchallenges.fyi/challenges/challenge-password-manager)
+[description](https://codingchallenges.fyi/challenges/challenge-password-manager)
 
 ## Install
 To install it globally just enter
