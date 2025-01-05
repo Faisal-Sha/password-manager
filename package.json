@@ -1,0 +1,29 @@
+{
+  "name": "password-vault-cli",
+  "version": "1.0.7",
+  "description": "",
+  "main": "./index.js",
+  "type": "module",
+  "bin": {
+    "vault": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "vault cli",
+    "password cli",
+    "encryption"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "commander": "^12.0.0",
+    "crypto-js": "^4.2.0",
+    "inquirer": "^9.2.20",
+    "yargs": "^17.7.2"
+  }
+}
